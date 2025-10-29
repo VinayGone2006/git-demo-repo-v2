@@ -1,3 +1,1 @@
-# git-demo-repo
-For DevOps Lab experiment purpose
-## Git Practice Repo
+# Git Demo Repo V2
